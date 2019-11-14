@@ -192,6 +192,8 @@ Braudel’s methods were both familiar and innovative. He relied heavily on arch
 
 As a professor, Braudel also practiced controversial methodologies. He specifically selected students based on their research plans instead of on their transcripts, emphasizing their futures over their pasts, even though it contradicted with established norms of the academy. And, let’s not forget his role in the rise of microfilm. You can thank Braudel when you are squinting over blurry lines of newsprint in your local library’s basement. 
 
+### Criticisms and Conclusion
+
 #### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
