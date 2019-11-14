@@ -176,8 +176,8 @@ Braudel also made some interesting observations with regards to both language an
 
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Braudel's reception in France and abroad..."
+  width="45%"
+  caption="Braudel died less than 40 years ago. How long will the world wait to decide if he really was a man who reinvented history?"
   image-url="braudel-reinventedhistory.jpg"
   source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
 %}
