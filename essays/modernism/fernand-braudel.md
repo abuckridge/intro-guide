@@ -182,6 +182,12 @@ Braudel also made some interesting observations with regards to both language an
   source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
 %}
 
+{% include aside.html
+  class="pullquote"
+  text="I consciously set forth in search of a historical language-the most profound I could grasp or invent-in order to present unchanging...conditions which stubbornly assert themselves over and over again.  
+  (Braudel,454)"
+  %}
+
 #### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
