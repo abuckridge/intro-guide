@@ -214,6 +214,11 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
   source-url="http://www.parisrues.com/rues13/paris-13-rue-fernand-braudel.html"
 %}
 
+Despite his renown and influence, Braudel also had some tough critics. The two main areas of contention in his work revolve around the idea of *total histories* generally and his three-part temporal structure specifically. American historian and two-time Pulitzer Prize winner [Bernard Bailyn]( https://en.wikipedia.org/wiki/Bernard_Bailyn ) reviewed *The Mediterranean* following its English translation in 1973. He wrote, “What is painfully lacking from this huge, rambling book is the integration of its parts that could result from the posing of proper historical questions” (Marino, 629). Bailyn and others felt that his division of time made his narratives disjointed while his emphasis on the *longue duree* meant that he almost never wrote about actual people (quite a taboo practice for a historian).
+
+Others, like [Carlo Ginzberg]( https://en.wikipedia.org/wiki/Carlo_Ginzburg) and the Italian school of *microstoria*, rejected his philosophy of total histories. They argued that total histories were either impossible or problematic, for practical reasons on the first account and theoretical and ethical ones on the second.  Choosing instead the opposite side of the spectrum in terms of scope, historians of microstoria worked in extremely specific spatial and temporal scales, focusing on the lives of individuals in particular contexts. 
+
+Despite these criticisms, Braudel remains one of the most defining voices of 20th century historiography. His influence inspired a shift towards more interdisciplinary historical research, quantitative methodologies, and in increase in the study of global histories. **As spatial and digital histories expand as a result of new technologies, what methods might we integrate from Braudel? How can his theories inspire research in climate change, migration, big data, and other contemporary concerns?** 
 
 
 #### Bibliography
