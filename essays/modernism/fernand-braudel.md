@@ -199,6 +199,19 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
   text="Happiness, whether in business of private life, leaves very little trace in history.
   "
   %}
+  
+  {% include aside.html
+  class="pullquote"
+  text="The earth is, like our own skin, fated to carry the scars of ancient wounds.
+  "
+  %}
+  
+  {% include aside.html
+  class="pullquote"
+  text="The mere smell of cooking can evoke a whole civilization.
+  "
+  %}
+
 
 #### Bibliography
 
