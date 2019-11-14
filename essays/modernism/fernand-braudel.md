@@ -166,6 +166,12 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
   (Braudel)"
   %}
 
+Suffice it so say that I did not read this gargantuan three volume set on the history of pre-industrial western civilization, and I do not want to spend too much time in the details of this work. However, it is important to know the essence of Braudel’s historical argument about the nature of Capitalism in order to understand its implications on the production of history. Most significantly, Braudel makes a stark distinction between the (free)market and Capitalism. **In his words the market is transparent whereas Capitalism is speculative, the market is structured around competition, Capitalism around control and monopolization, and the market is domain of regular people with relatively small profits and Capitalism is the domain of the powerful with exceptional profits** (Wallerstein, 357).  Another important distinction that Braudel makes is that Capitalism has flexibility to adjust depending on where the money is, and that its adaptability supersedes its specialization. 
+
+So why does that all matter? Because it rejected pretty much the entire corpus of economic history up to that point! See if you can follow me on this one. Traditional economic historiography advocated a narrative of economic evolution following the general form of: generic, simple peasant society gets exploited by landlords leading to the eventual development of a middle class which in turn develops capitalism which then leads to both the Industrial and French Revolutions “which together constitute a great temporal divide of world history at the turn of the nineteenth century” (Wallerstein, 359). Let that settle in. **Braudel argued against that historical mythology, calling instead for an analysis that revealed the historic role of monopolists working against the market.** 
+
+Braudel also made some interesting observations with regards to both language and time. He challenged the periodization we have created within economic history and theory. Specifically our use of words like *pre-industrial* and *post-industrial* gives power to what he might characterize as a false narrative: “the break between medieval and modern times” based on a free market capitalism (Wallerstein, 359). 
+
 ### Methodology and Writing
 
 {% include figure.html
