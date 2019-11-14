@@ -211,6 +211,15 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
   text="The mere smell of cooking can evoke a whole civilization.
   "
   %}
+  
+  {% include figure.html
+  class="img-right"
+  width="45%"
+  caption="Braudel really had a way with words. His wife and collaborator, Paule Braudel, said that his method was more like that of an artist than that of a philosopher or logician (Marino, 641)."
+  image-url="fernandbraudel01.jpg"
+  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
+%}
+
 
 
 #### Bibliography
