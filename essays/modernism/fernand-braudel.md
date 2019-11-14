@@ -155,7 +155,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Braudel's perspectives on Capitalism blah blah blah."
+  caption="This massive work challenged predominant interpretations of the Capitalism and its progressive role in Western economic history."
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
@@ -172,7 +172,7 @@ So why does that all matter? Because it rejected pretty much the entire corpus o
 
 Braudel also made some interesting observations with regards to both language and time. He challenged the periodization we have created within economic history and theory. Specifically our use of words like *pre-industrial* and *post-industrial* gives power to what he might characterize as a false narrative: “the break between medieval and modern times” based on a free market capitalism (Wallerstein, 359). 
 
-### Methodology and Writing
+### Braudelain Methods 
 
 {% include figure.html
   class="img-right"
