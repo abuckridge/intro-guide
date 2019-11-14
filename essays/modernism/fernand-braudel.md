@@ -214,7 +214,7 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
   
   {% include figure.html
   class="img-right"
-  width="45%"
+  width="100%"
   caption="Braudel really had a way with words. His wife and collaborator, Paule Braudel, said that his method was more like that of an artist than that of a philosopher or logician (Marino, 641)."
   image-url="fernandbraudel01.jpg"
   source-url="http://www.parisrues.com/rues13/paris-13-rue-fernand-braudel.html"
