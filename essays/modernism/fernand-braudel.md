@@ -188,6 +188,10 @@ Braudel also made some interesting observations with regards to both language an
   (Braudel,454)"
   %}
 
+Braudel’s methods were both familiar and innovative. He relied heavily on archival research but also on his memory and the power of storytelling. He was a historian at heart but also employed other social science methodologies, declaring that all **“temporalities were at work in any historical event, and that different disciplines specialize in different temporalities**—geography in the long duration, economics in the middle duration” (Caygill, 157). For Braudel, history was the mediator between other disciplines. 
+
+As a professor, Braudel also practiced controversial methodologies. He specifically selected students based on their research plans instead of on their transcripts, emphasizing their futures over their pasts, even though it contradicted with established norms of the academy. And, let’s not forget his role in the rise of microfilm. You can thank Braudel when you are squinting over blurry lines of newsprint in your local library’s basement. 
+
 #### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
