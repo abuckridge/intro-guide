@@ -182,7 +182,7 @@ Braudel also made some interesting observations with regards to both language an
   source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
 %}
 
-### Bibliography
+#### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
 
