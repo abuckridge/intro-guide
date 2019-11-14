@@ -16,7 +16,7 @@ date: 2019-10-20
 ##### **AN INTRODUCTION TO THE LIFE AND LEGACY OF ONE OF THE 20TH CENTURY'S MOST IMPORTANT HISTORIANS**
 
 
-Have you ever wondered how *where* you live has influenced *who* you are? Are you a person of the desert, the mountains, the sea? Have you ever questioned the relativity of time or thought of time in terms of its relationship to space? I know I have, and that is why I was so drawn to the famed [Annales School](https://unm-historiography.github.io/intro-guide/essays/modernism/annales-school.html) historian **Fernand Paul Braudel (1902-1985)**. That and the fact that he is a wonderful storyteller who writes like a poet. I hope that his life and legacy inspire you as they have me. 
+Have you ever wondered how *where* you live has influenced *who* you are? Are you a person of the desert, the mountains, the sea? Have you ever questioned the relativity of time or thought of time in terms of its relationship to space? I know I have, and that is why I was so drawn to the famed [Annales School](https://unm-historiography.github.io/intro-guide/essays/modernism/annales-school.html) historian **Fernand Paul Braudel (1902-1985)**. That and the fact that he was a wonderful storyteller who wrote like a poet. I hope that his life and legacy inspire you as they have me. 
 
 Fernand Braudel was many things: a teacher, writer, prisoner, husband, and historian. He was also a man who rejected the significance of individual people and events. For more than fifty years he advocated a history “based on a consideration of physical and material constraints, one in which the individual was subsumed by the environment” (Hufton, 209). What would he think of someone writing his story, searching for meaning in the course of his years instead of in the landscapes he inhabited? Many scholars have argued that Braudel was the most significant historian of the 20th century, but how should he be remembered considering his personal opposition to the histories of ‘great men’? This essay examines the influence he had on historiography in the face of that ironic paradox and argues that **Braudel’s work galvanized a new geographical, quantitative, and long duration study of history.** 
 
@@ -47,7 +47,6 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
 
 ### Algeria and Brazil
 
-> “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
 
 {% include figure.html
   class="img-right"
@@ -78,12 +77,6 @@ In 1935 Braudel accepted a teaching position in [Sao Paulo, Brazil](https://www.
 
 Another significant result of Braudel’s time in Brazil was his introduction to the renowned French historian [Lucien Febvre](https://en.wikipedia.org/wiki/Lucien_Febvre) in October of 1937. Both men were on board a ship heading back to Europe, Braudel after teaching in Sao Paulo and Febvre after lecturing in Buenos Aires. After twenty days on the water together, Braudel had become “more than a companion to Lucien Febvre…a little like a son (Braudel, 452). By 1939, after more than a decade in the archives, Braudel was ready to start writing his book on the Mediterranean. But that same year he was called to serve in the French army.  
 
-
-Upon graduation, Braudel was assigned a position teaching history in Constantine, Algeria. As a man in his early twenties, Braudel delighted in the city, the Sahara, and in teaching, despite the fact that he was instructing his students “a superficial history of events…of happenings, of politics, of great men” (Braudel, 450). In the summers, when school was not in session, Braudel spent countless hours at the archives working on a thesis surrounding King Phillip II of Spain. Using an old film camera he purchased from an American cameraman, Braudel took upwards of 2,000 photos a day of documents in the archives, inadvertently becoming “the first user of microfilms” (Braudel, 452). This methodology alone changed the way professionals and novices alike do history, but that was only the beginning. His time in Algeria challenged his Eurocentric view of world and opened his eyes to influences on the other side of the Mediterranean. 
-
-In 1935 Braudel accepted a teaching position in Sao Paulo, Brazil. For three years he taught a course on the history of civilization and continued his work in the archives. Braudel claimed that from Brazil “he could see the Mediterranean from outside as a whole” while also getting a glimpse into the past by observing the “still surviving forms of social control and modes of exploitation of the land and of the labor force” reminiscent of Medieval Europe (Aymard, 18). 
-
-Another significant result of Braudel’s time in Brazil was his introduction to the renowned French historian [Lucien Febvre](https://en.wikipedia.org/wiki/Lucien_Febvre) in October of 1937. Both men were on board a ship heading back to Europe, Braudel after teaching in Sao Paulo and Febvre after lecturing in Buenos Aires. After twenty days on the water together, Braudel had become “more than a companion to Lucien Febvre…a little like a son (Braudel, 452). By 1939, after more than a decade in the archives, Braudel was ready to start writing his book on the Mediterranean. That same year he but was called to serve in the French army.  
 
 ### As a Prisoner of War
 
@@ -130,10 +123,6 @@ The [companion article](https://unm-historiography.github.io/intro-guide/essays/
 Outside of his time with The Annales, Braudel worked as a professor at the College de France, served as president of the VI section of the Ecole Pratique de Hautes Etudes, and director of the Masion de Sciences de l’Homme (Hufton, 208).  All the while, he continued work on a 1966 revision of *The Mediterranean* as well as a massive new history on Capitalism which he would publish in 1967 under the title *Civilization and Capitalism*. *The Identity of France*, published posthumously in 1986, examines the history of Braudel’s motherland and is our final glimpse into the mind of “the greatest and most influential historian of our time” (Hufton, 208). 
 
 ### **BRAUDEL'S LEGACY:** HOW HIS WORK REPRESENTS A SHIFT IN HISTORIOGRAPHICAL DISCOURSE AND PRODUCTION
-
-What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean using a “tripartite notion on which common time was set on one side” (Hufton, 112) so that the long duration effects of geography, climate, and sociology came to the forefront. The Braudelian perspective of time centered around the idea that all historical events could be examined in distinct time scales: the longue duree, the moyenne duree, and the courte duree. “The longue duree, virtually boundless time, perhaps extending over centuries of common time during which the parameters of human existence were unchanged” (Hufton, 112) was the most influential scale according to Braudel. The moyenne duree relates to “anything in common time perhaps from fifty years to a century” (Hufton, 112) where shifts in trade cycles or urban development are witnessed, for example. Finally, the courte duree refers to “phenomena such as abnormal harvests or short industrial slumps or temporary dislocation which might…be the product of war, occupation, etc.” (Hufton, 112). In the case of *The Mediterranean*, Braudel tells the story of life during the era of King Phillip from all of these time scales to “teach how, in the lands around the ever-changing and never-changing sea, time and space, history and geography together shaped one coherent past, present, and future” (Marino, 649). His emphasis on the longue duree devalued individual people and events, drawing some criticism from his contemporaries who focused largely on political history and biography. 
-
-### Capitalism
 
 ### *The Mediterranean*
 
