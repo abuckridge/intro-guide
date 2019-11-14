@@ -194,6 +194,12 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
 
 ### Criticisms and Conclusion
 
+{% include aside.html
+  class="pullquote"
+  text="Happiness, whether in business of private life, leaves very little trace in history.
+  "
+  %}
+
 #### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
