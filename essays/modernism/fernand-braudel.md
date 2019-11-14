@@ -194,6 +194,14 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
 
 ### Criticisms and Conclusion
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Braudel really had a way with words. His wife and collaborator, Paule Braudel, said that his method was more like that of an artist than that of a philosopher or logician (Marino, 641)."
+  image-url="fernandbraudel01.jpg"
+  source-url="http://www.parisrues.com/rues13/paris-13-rue-fernand-braudel.html"
+%}
+
 {% include aside.html
   class="pullquote"
   text="Happiness, whether in business of private life, leaves very little trace in history.
@@ -205,14 +213,6 @@ As a professor, Braudel also practiced controversial methodologies. He specifica
   text="The earth is, like our own skin, fated to carry the scars of ancient wounds.
   -Braudel"
   %}
-  
-  {% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Braudel really had a way with words. His wife and collaborator, Paule Braudel, said that his method was more like that of an artist than that of a philosopher or logician (Marino, 641)."
-  image-url="fernandbraudel01.jpg"
-  source-url="http://www.parisrues.com/rues13/paris-13-rue-fernand-braudel.html"
-%}
 
 Despite his renown and influence, Braudel also had some tough critics. The two main areas of contention in his work revolve around the idea of *total histories* generally and his three-part temporal structure specifically. American historian and two-time Pulitzer Prize winner [Bernard Bailyn]( https://en.wikipedia.org/wiki/Bernard_Bailyn ) reviewed *The Mediterranean* following its English translation in 1973. He wrote, “What is painfully lacking from this huge, rambling book is the integration of its parts that could result from the posing of proper historical questions” (Marino, 629). Bailyn and others felt that his division of time made his narratives disjointed while his emphasis on the *longue duree* meant that he almost never wrote about actual people (quite a taboo practice for a historian).
 
