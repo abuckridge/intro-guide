@@ -6,7 +6,7 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="From peasant roots in the countryside of eastern France to one of the most preeminent historians of the 20th century, Braudel's life story gives context for the evolution of 20th century historical thought."
   image-url="braudel-main.jpg"
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
@@ -162,7 +162,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 
 {% include aside.html
   class="pullquote"
-  text="Capitalism, a certain capitalism, has always existed, as early as ancient Babylon who knew bankers, merchants engaged in distant affairs, and all the instruments of credit: bill of exchange, promissory note, check. In this sense, the history of capitalism goes from Hammurabi to Rockefeller.  
+  text="Capitalism, a certain capitalism, has always existed...in this sense, the history of capitalism goes from Hammurabi to Rockefeller.  
   (Braudel)"
   %}
 
